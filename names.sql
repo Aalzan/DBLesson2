@@ -1,0 +1,55 @@
+CREATE TABLE names (
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(255) NOT NULL
+);
+
+insert into names (id, name) values (1, 'Celestia');
+insert into names (id, name) values (2, 'Lurette');
+insert into names (id, name) values (3, 'Elinore');
+insert into names (id, name) values (4, 'Harvey');
+insert into names (id, name) values (5, 'Augustina');
+insert into names (id, name) values (6, 'Kylie');
+insert into names (id, name) values (7, 'Frederick');
+insert into names (id, name) values (8, 'Abbott');
+insert into names (id, name) values (9, 'Stillman');
+insert into names (id, name) values (10, 'Zackariah');
+insert into names (id, name) values (11, 'Jarib');
+insert into names (id, name) values (12, 'Angelle');
+insert into names (id, name) values (13, 'Duke');
+insert into names (id, name) values (14, 'Bettine');
+insert into names (id, name) values (15, 'Freemon');
+insert into names (id, name) values (16, 'Marji');
+insert into names (id, name) values (17, 'Silva');
+insert into names (id, name) values (18, 'Hewet');
+insert into names (id, name) values (19, 'Shay');
+insert into names (id, name) values (20, 'Shanda');
+insert into names (id, name) values (21, 'Isacco');
+insert into names (id, name) values (22, 'Polly');
+insert into names (id, name) values (23, 'Salvidor');
+insert into names (id, name) values (24, 'Ewart');
+insert into names (id, name) values (25, 'Olivero');
+insert into names (id, name) values (26, 'Lurlene');
+insert into names (id, name) values (27, 'Maurise');
+insert into names (id, name) values (28, 'Laurent');
+insert into names (id, name) values (29, 'Josie');
+insert into names (id, name) values (30, 'Carrissa');
+insert into names (id, name) values (31, 'Brita');
+insert into names (id, name) values (32, 'Norri');
+insert into names (id, name) values (33, 'Neddy');
+insert into names (id, name) values (34, 'Garvy');
+insert into names (id, name) values (35, 'Durante');
+insert into names (id, name) values (36, 'Audy');
+insert into names (id, name) values (37, 'Gale');
+insert into names (id, name) values (38, 'Katrina');
+insert into names (id, name) values (39, 'Carlyle');
+insert into names (id, name) values (40, 'Godiva');
+insert into names (id, name) values (41, 'Eleanor');
+insert into names (id, name) values (42, 'Bruno');
+insert into names (id, name) values (43, 'Darcee');
+insert into names (id, name) values (44, 'Robby');
+insert into names (id, name) values (45, 'Lisabeth');
+insert into names (id, name) values (46, 'Carver');
+insert into names (id, name) values (47, 'Freedman');
+insert into names (id, name) values (48, 'Violetta');
+insert into names (id, name) values (49, 'Harper');
+insert into names (id, name) values (50, 'Lissi');
